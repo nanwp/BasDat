@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T05:37:11.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Tm_JMeNwcMwBZc8_OQWr" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T05:43:16.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nFjLvtjWGrDp7Nh1MGAs" version="20.2.7" type="github">
   <diagram id="YNCiJoUd8FhVtUNiltkF" name="Page-1">
-    <mxGraphModel dx="1466" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,19 @@
           <mxGeometry x="680" y="394" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="paMB84wC_eCECAqTqwR8-7" value="Perempuan" style="whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="680" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="750" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="paMB84wC_eCECAqTqwR8-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=#000000;" edge="1" parent="1" source="paMB84wC_eCECAqTqwR8-8" target="paMB84wC_eCECAqTqwR8-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="paMB84wC_eCECAqTqwR8-8" value="Laki - Laki" style="whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="400" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="paMB84wC_eCECAqTqwR8-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToOne;startFill=0;endArrow=ERoneToMany;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeColor=#000000;" edge="1" parent="1" source="paMB84wC_eCECAqTqwR8-9" target="paMB84wC_eCECAqTqwR8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="paMB84wC_eCECAqTqwR8-9" value="Menikah" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
