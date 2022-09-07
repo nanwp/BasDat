@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:56:00.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g-1xn1BnGpSXOX3tV5qY" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:57:30.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TneT0S8V3e8mBLny3Nxq" version="20.2.8" type="github">
   <diagram id="fjma_rH4jVGtbMmXEY6M" name="Page-1">
     <mxGraphModel dx="1384" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -50,6 +50,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j9miYyE6JlXqq6CcQ1L1-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;targetPerimeterSpacing=8;" edge="1" parent="1" source="j9miYyE6JlXqq6CcQ1L1-16" target="j9miYyE6JlXqq6CcQ1L1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9miYyE6JlXqq6CcQ1L1-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j9miYyE6JlXqq6CcQ1L1-7" target="j9miYyE6JlXqq6CcQ1L1-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9miYyE6JlXqq6CcQ1L1-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="j9miYyE6JlXqq6CcQ1L1-7" target="j9miYyE6JlXqq6CcQ1L1-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9miYyE6JlXqq6CcQ1L1-7" value="Konsultan" style="whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
@@ -126,6 +132,12 @@
         </mxCell>
         <mxCell id="j9miYyE6JlXqq6CcQ1L1-40" value="nama" style="ellipse;whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="1110" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j9miYyE6JlXqq6CcQ1L1-43" value="idKonsultan" style="ellipse;whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j9miYyE6JlXqq6CcQ1L1-44" value="nama" style="ellipse;whiteSpace=wrap;html=1;align=center;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
